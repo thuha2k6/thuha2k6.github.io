@@ -20,8 +20,11 @@ nav ul li{
 nav ul li a{ color: white;
 text-decoration: none;
 }
+header h1{ text-align: center;}
 section{ margin: 20px;}
 article header p {font-style: italic;}
+main{padding-left:20px ;}
+
 footer{
     background: black;
     color: white;
